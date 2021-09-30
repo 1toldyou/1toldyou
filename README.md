@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-of course, I made most of my repo private, so nothing to look at here
+**of course, I made most of my repo private, so nothing to look at here**
 <!---
 1toldyou/1toldyou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
